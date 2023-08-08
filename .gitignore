@@ -1,0 +1,12 @@
+# Windows venv stuff
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# vscode
+.vscode/
+
+# cpython
+__pycache__/
+.pytest_cache
